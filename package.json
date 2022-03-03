@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio-7",
+  "version": "1.0.0",
+  "description": "Read Json and write on file",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Juan David Dias y Nicolas Jaramillo",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.15"
+  }
+}
